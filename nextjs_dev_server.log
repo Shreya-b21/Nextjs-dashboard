@@ -1,0 +1,10 @@
+
+> @ dev /content/drive/MyDrive/nextjs-projects/nextjs-dashboard
+> next dev --turbopack
+
+ ⚠ Port 3000 is in use, using available port 3002 instead.
+   ▲ Next.js 15.3.2 (Turbopack)
+   - Local:        http://localhost:3002
+   - Network:      http://172.28. ✓ Ready in 230.5s
+ing...
+ ✓ Ready in 173.1s
